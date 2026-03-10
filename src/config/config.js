@@ -12,7 +12,7 @@ module.exports = {
   invite: process.env.INVITE_LINK || "https://discord.com/oauth2/authorize?client_id=YOUR_ID&permissions=8&scope=bot",
   inviteTwo: process.env.INVITE_LINK || "https://discord.com/oauth2/authorize?client_id=YOUR_ID&permissions=8&scope=bot",
   inviteThree: process.env.INVITE_LINK || "https://discord.com/oauth2/authorize?client_id=YOUR_ID&permissions=8&scope=bot",
-  ssLink: process.env.SUPPORT_SERVER || "https://discord.gg/your-server",
+  ssLink: process.env.SUPPORT_SERVER || "https://discord.gg/zenkai-headquarters-6-1363548442449674482",
   topGg: process.env.TOPGG_LINK || "",
   topgg_Api: process.env.TOPGG_API || "",
   noprefixLog: process.env.WEBHOOK_NOPREFIX || "",
