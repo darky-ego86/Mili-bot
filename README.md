@@ -58,7 +58,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/mili-bot.git
+git clone https://github.com/dark.ego86/mili-bot.git
 cd mili-bot
 ```
 
